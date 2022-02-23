@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kakalanp/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kakalanp/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Kakalanp/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
